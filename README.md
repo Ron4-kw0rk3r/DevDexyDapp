@@ -1,70 +1,30 @@
-# Getting Started with Create React App
+# Dexy Dapp
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Descripción Detallada
 
-## Available Scripts
+Dexy Dapp es una aplicación innovadora que actúa como un marketplace alternativo, diseñado específicamente para facilitar la interacción segura y eficiente entre usuarios que desean comerciar con activos digitales a través de sus wallets personales.
 
-In the project directory, you can run:
+### Características Principales
 
-### `npm start`
+1. **Marketplace Alternativo**
+   - Los usuarios pueden publicar anuncios de activos digitales vinculando directamente sus wallets.
+   - Permite la gestión autónoma de cuentas y activos digitales en un entorno seguro.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+2. **Exchange Alternativo**
+   - Ofrece una alternativa robusta a plataformas tradicionales como Western Union.
+   - Facilita el intercambio de criptomonedas y activos digitales con bajas comisiones y alta eficiencia.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+3. **Creación y Comercialización de NFTs**
+   - Proporciona herramientas para la creación de NFTs, permitiendo a los usuarios diseñar y ofrecer sus propios NFTs en el mercado.
+   - Integración de NFTs en el marketplace para su venta o intercambio.
 
-### `npm test`
+4. **Contratos Inteligentes para Operaciones Seguras**
+   - Utiliza contratos inteligentes para automatizar y asegurar todas las transacciones.
+   - Los contratos están diseñados para ser transparentes y verificables, asegurando que todas las partes cumplan con los términos acordados antes de que se liberen los fondos.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+5. **Interfaz Intuitiva y Accesible**
+   - Interfaz diseñada para ser intuitiva, facilitando a los usuarios la navegación y el uso eficiente de la plataforma.
+   - Accesible desde diversos dispositivos, garantizando una experiencia de usuario óptima.
 
-### `npm run build`
+Dexy Dapp se establece como una solución integral para el comercio de activos digitales, ofreciendo un sistema de intercambio alternativo y la posibilidad de crear y comercializar NFTs. La plataforma se apoya en la tecnología de blockchain para proporcionar un entorno de operaciones seguro y transparente, destacando la importancia de los contratos inteligentes para la realización de transacciones confiables y automáticas.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
